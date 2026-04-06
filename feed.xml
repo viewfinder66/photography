@@ -3,7 +3,7 @@
     <title>viewfinder66 photography</title>
     <link href="https://viewfinder66.github.io/photography/feed.xml" rel="self" />
     <link href="https://viewfinder66.github.io/photography" />
-    <updated>2026-04-06T22:33:21+08:00</updated>
+    <updated>2026-04-06T22:49:35+08:00</updated>
     <author>
         <name>Thomas Cheang</name>
     </author>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>this is a test of the Publii</p>
+                <figure class="post__image"><img loading="lazy"  src="https://viewfinder66.github.io/photography/media/posts/2/Xin-Niang-Zi-model-9477-2.jpg" alt="" width="1600" height="1600" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://viewfinder66.github.io/photography/media/posts/2/responsive/Xin-Niang-Zi-model-9477-2-xs.jpg 640w ,https://viewfinder66.github.io/photography/media/posts/2/responsive/Xin-Niang-Zi-model-9477-2-sm.jpg 768w ,https://viewfinder66.github.io/photography/media/posts/2/responsive/Xin-Niang-Zi-model-9477-2-md.jpg 1024w ,https://viewfinder66.github.io/photography/media/posts/2/responsive/Xin-Niang-Zi-model-9477-2-lg.jpg 1366w ,https://viewfinder66.github.io/photography/media/posts/2/responsive/Xin-Niang-Zi-model-9477-2-xl.jpg 1600w ,https://viewfinder66.github.io/photography/media/posts/2/responsive/Xin-Niang-Zi-model-9477-2-2xl.jpg 1920w"></figure>this is a test of the Publii</p>
             ]]>
         </content>
     </entry>
