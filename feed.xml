@@ -34,23 +34,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>post title 1</title>
-        <author>
-            <name>Thomas Cheang</name>
-        </author>
-        <link href="https://viewfinder66.github.io/photography/viewfinder66-photography.html"/>
-        <id>https://viewfinder66.github.io/photography/viewfinder66-photography.html</id>
-
-        <updated>2026-04-05T23:01:17+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://viewfinder66.github.io/photography/media/posts/1/Jing-Li-Shi-Jianfor-web.jpg" alt="" width="3750" height="2550" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://viewfinder66.github.io/photography/media/posts/1/responsive/Jing-Li-Shi-Jianfor-web-xs.jpg 384w ,https://viewfinder66.github.io/photography/media/posts/1/responsive/Jing-Li-Shi-Jianfor-web-sm.jpg 600w ,https://viewfinder66.github.io/photography/media/posts/1/responsive/Jing-Li-Shi-Jianfor-web-md.jpg 768w ,https://viewfinder66.github.io/photography/media/posts/1/responsive/Jing-Li-Shi-Jianfor-web-lg.jpg 1200w ,https://viewfinder66.github.io/photography/media/posts/1/responsive/Jing-Li-Shi-Jianfor-web-xl.jpg 1600w"></figure>
-<p> </p>
-<p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://viewfinder66.github.io/photography/media/posts/1/Xin-Niang-Zi-model-9477-2.jpg" alt="" width="1600" height="1600" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://viewfinder66.github.io/photography/media/posts/1/responsive/Xin-Niang-Zi-model-9477-2-xs.jpg 384w ,https://viewfinder66.github.io/photography/media/posts/1/responsive/Xin-Niang-Zi-model-9477-2-sm.jpg 600w ,https://viewfinder66.github.io/photography/media/posts/1/responsive/Xin-Niang-Zi-model-9477-2-md.jpg 768w ,https://viewfinder66.github.io/photography/media/posts/1/responsive/Xin-Niang-Zi-model-9477-2-lg.jpg 1200w ,https://viewfinder66.github.io/photography/media/posts/1/responsive/Xin-Niang-Zi-model-9477-2-xl.jpg 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
 </feed>
