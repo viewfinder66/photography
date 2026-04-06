@@ -3,10 +3,30 @@
     <title>viewfinder66 photography</title>
     <link href="https://viewfinder66.github.io/photography/feed.xml" rel="self" />
     <link href="https://viewfinder66.github.io/photography" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2026-04-06T22:18:38+08:00</updated>
     <author>
         <name>Thomas Cheang</name>
     </author>
     <id>https://viewfinder66.github.io/photography</id>
 
+    <entry>
+        <title>test web site</title>
+        <author>
+            <name>Thomas Cheang</name>
+        </author>
+        <link href="https://viewfinder66.github.io/photography/test-web-site.html"/>
+        <id>https://viewfinder66.github.io/photography/test-web-site.html</id>
+
+        <updated>2026-04-06T22:18:38+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    this is a test of the Publii
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is a test of the Publii</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -9,5 +9,19 @@
         "name": "Thomas Cheang"
     },
     "items": [
+        {
+            "id": "https://viewfinder66.github.io/photography/test-web-site.html",
+            "url": "https://viewfinder66.github.io/photography/test-web-site.html",
+            "title": "test web site",
+            "summary": "this is a test of the Publii",
+            "content_html": "<p>this is a test of the Publii</p>",
+            "author": {
+                "name": "Thomas Cheang"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-06T22:18:38+08:00",
+            "date_modified": "2026-04-06T22:18:38+08:00"
+        }
     ]
 }
