@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "viewfinder66 photography",
+    "description": "",
+    "home_page_url": "https://viewfinder66.github.io/photography",
+    "feed_url": "https://viewfinder66.github.io/photography/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Thomas Cheang"
+    },
+    "items": [
+    ]
+}

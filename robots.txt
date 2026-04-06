@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://viewfinder66.github.io/photography/sitemap.xml
