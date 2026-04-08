@@ -3,12 +3,34 @@
     <title>viewfinder66 photography</title>
     <link href="https://viewfinder66.github.io/photography/feed.xml" rel="self" />
     <link href="https://viewfinder66.github.io/photography" />
-    <updated>2026-04-07T00:28:26+08:00</updated>
+    <updated>2026-04-09T00:47:35+08:00</updated>
     <author>
         <name>Thomas Cheang</name>
     </author>
     <id>https://viewfinder66.github.io/photography</id>
 
+    <entry>
+        <title>Family</title>
+        <author>
+            <name>Thomas Cheang</name>
+        </author>
+        <link href="https://viewfinder66.github.io/photography/family.html"/>
+        <id>https://viewfinder66.github.io/photography/family.html</id>
+
+        <updated>2026-04-09T00:47:35+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
+<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/5/gallery/016.jpg" data-size="3320x2048"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/5/gallery/016-thumbnail.jpg" alt="" width="768" height="474"></a></figure>
+<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/5/gallery/034.jpg" data-size="3224x1952"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/5/gallery/034-thumbnail.jpg" alt="" width="768" height="465"></a></figure>
+<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/5/gallery/029.jpg" data-size="3408x2064"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/5/gallery/029-thumbnail.jpg" alt="" width="768" height="465"></a></figure>
+<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/5/gallery/006.jpg" data-size="3256x1984"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/5/gallery/006-thumbnail.jpg" alt="" width="768" height="468"></a></figure>
+<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/5/gallery/025.jpg" data-size="3408x2064"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/5/gallery/025-thumbnail.jpg" alt="" width="768" height="465"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Street</title>
         <author>
