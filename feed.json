@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://viewfinder66.github.io/photography/landscape.html",
+            "url": "https://viewfinder66.github.io/photography/landscape.html",
+            "title": "Landscape",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"5\">\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-16.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-16-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-4.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-4-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-7.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-7-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-18.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-18-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-17.jpg\" data-size=\"1600x1067\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/7/gallery/Dao-Cheng-Ya-Ding-Jing-Xuan-17-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Thomas Cheang"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-09T00:56:27+08:00",
+            "date_modified": "2026-04-09T00:56:27+08:00"
+        },
+        {
+            "id": "https://viewfinder66.github.io/photography/fine-art.html",
+            "url": "https://viewfinder66.github.io/photography/fine-art.html",
+            "title": "Fine Art",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/6/gallery/Qi-Xing-1Fen-Zhong-pinhole.jpg\" data-size=\"4234x2485\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/6/gallery/Qi-Xing-1Fen-Zhong-pinhole-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"451\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/6/gallery/Last-Supper-compare.jpg\" data-size=\"2479x3508\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/6/gallery/Last-Supper-compare-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1087\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/6/gallery/Jing-Li-Shi-Jianfor-web.jpg\" data-size=\"3750x2550\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/6/gallery/Jing-Li-Shi-Jianfor-web-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"522\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Thomas Cheang"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-09T00:53:18+08:00",
+            "date_modified": "2026-04-09T00:53:18+08:00"
+        },
+        {
             "id": "https://viewfinder66.github.io/photography/family.html",
             "url": "https://viewfinder66.github.io/photography/family.html",
             "title": "Family",
