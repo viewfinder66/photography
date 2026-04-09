@@ -3,12 +3,35 @@
     <title>viewfinder66 photography</title>
     <link href="https://viewfinder66.github.io/photography/feed.xml" rel="self" />
     <link href="https://viewfinder66.github.io/photography" />
-    <updated>2026-04-09T12:07:13+08:00</updated>
+    <updated>2026-04-09T12:14:25+08:00</updated>
     <author>
         <name>Thomas Cheang</name>
     </author>
     <id>https://viewfinder66.github.io/photography</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Thomas Cheang</name>
+        </author>
+        <link href="https://viewfinder66.github.io/photography/contact.html"/>
+        <id>https://viewfinder66.github.io/photography/contact.html</id>
+
+        <updated>2026-04-09T12:14:25+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Email - viewfinder66@gmail.com https://www.flickr.com/photos/thomas66/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Email - viewfinder66@gmail.com</p>
+<p><a href="https://www.flickr.com/photos/thomas66/">https://www.flickr.com/photos/thomas66/</a></p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
@@ -27,7 +50,6 @@
             <![CDATA[
                 <p><em>Thomas Cheang is a post-60s photography enthusiast who began shooting in the film era. I enjoy experimenting with various cameras and gear, and exploring a wide range of subjects through my lens.</em></p>
 <figure class="post__image align-right"><em style="font-size: inherit;"> <img loading="lazy"  src="https://viewfinder66.github.io/photography/media/posts/8/Zi-Pai.jpg" alt="" width="233" height="233" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-xs.jpg 384w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-sm.jpg 600w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-md.jpg 768w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-lg.jpg 1200w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-xl.jpg 1600w"></figure><br></em></p>
-<p><a href="mailto:viewfinder66@gmail.com">viewfinder66@gmail.com</a></p>
 <p> </p>
             ]]>
         </content>
