@@ -14,14 +14,14 @@
             "url": "https://viewfinder66.github.io/photography/about.html",
             "title": "About",
             "summary": "Thomas Cheang - A post-60s photography enthusiast who began shooting in the film era. I enjoy experimenting with various cameras&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://viewfinder66.github.io/photography/media/posts/8/Zi-Pai.jpg\" alt=\"\" width=\"400\" height=\"400\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-xs.jpg 384w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-sm.jpg 600w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-md.jpg 768w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-lg.jpg 1200w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-xl.jpg 1600w\"></figure>\n<p><em>Thomas Cheang - </em></p>\n<p><em>A post-60s photography enthusiast who began shooting in the film era. I enjoy experimenting with various cameras and gear, and exploring a wide range of subjects through my lens.</em></p>",
+            "content_html": "<p><em>Thomas Cheang -</em></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://viewfinder66.github.io/photography/media/posts/8/Zi-Pai-3.jpg\" alt=\"\" width=\"253\" height=\"253\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-3-xs.jpg 384w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-3-sm.jpg 600w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-3-md.jpg 768w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-3-lg.jpg 1200w ,https://viewfinder66.github.io/photography/media/posts/8/responsive/Zi-Pai-3-xl.jpg 1600w\"></figure>\n<p class=\"align-left\"><em>A post-60s photography enthusiast who began shooting in the film era. I enjoy experimenting with various cameras and gear, and exploring a wide range of subjects through my lens.</em></p>",
             "author": {
                 "name": "Thomas Cheang"
             },
             "tags": [
             ],
             "date_published": "2026-04-09T10:59:08+08:00",
-            "date_modified": "2026-04-09T11:05:15+08:00"
+            "date_modified": "2026-04-09T11:15:09+08:00"
         },
         {
             "id": "https://viewfinder66.github.io/photography/landscape.html",
@@ -79,15 +79,15 @@
             "id": "https://viewfinder66.github.io/photography/post-2.html",
             "url": "https://viewfinder66.github.io/photography/post-2.html",
             "title": "Portrait",
-            "summary": "拉薩小伙子 Winnie",
-            "content_html": "<p> </p>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"5\">\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Xi-Cang-Ren-Wen-0781.jpg\" data-size=\"1600x1143\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Xi-Cang-Ren-Wen-0781-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"549\"></a>\n<figcaption>拉薩小伙子</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Min-Yi.jpg\" data-size=\"2531x3543\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Min-Yi-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1075\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Winnie-BandW.jpg\" data-size=\"3543x2362\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Winnie-BandW-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption>Winnie</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Yin.jpg\" data-size=\"2835x2835\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Yin-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Xin-Niang-Zi-model-9477-2.jpg\" data-size=\"1600x1600\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Xin-Niang-Zi-model-9477-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
+            "summary": "拉薩小伙子 敏儀 Winnie Ian 新娘子",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"5\">\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Xi-Cang-Ren-Wen-0781.jpg\" data-size=\"1600x1143\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Xi-Cang-Ren-Wen-0781-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"549\"></a>\n<figcaption>拉薩小伙子</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Min-Yi.jpg\" data-size=\"2531x3543\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Min-Yi-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1075\"></a>\n<figcaption>敏儀</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Winnie-BandW.jpg\" data-size=\"3543x2362\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Winnie-BandW-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption>Winnie</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Yin.jpg\" data-size=\"2835x2835\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Yin-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a>\n<figcaption>Ian</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Xin-Niang-Zi-model-9477-2.jpg\" data-size=\"1600x1600\"><img loading=\"lazy\" src=\"https://viewfinder66.github.io/photography/media/posts/3/gallery/Xin-Niang-Zi-model-9477-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>新娘子</figcaption>\n</figure>\n</div></div>",
             "author": {
                 "name": "Thomas Cheang"
             },
             "tags": [
             ],
             "date_published": "2026-04-06T23:40:48+08:00",
-            "date_modified": "2026-04-09T11:08:13+08:00"
+            "date_modified": "2026-04-09T11:17:49+08:00"
         }
     ]
 }
