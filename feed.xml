@@ -3,7 +3,7 @@
     <title>viewfinder66 photography</title>
     <link href="https://viewfinder66.github.io/photography/feed.xml" rel="self" />
     <link href="https://viewfinder66.github.io/photography" />
-    <updated>2026-04-09T12:22:16+08:00</updated>
+    <updated>2026-04-09T13:41:06+08:00</updated>
     <author>
         <name>Thomas Cheang</name>
     </author>
@@ -85,13 +85,20 @@
         <id>https://viewfinder66.github.io/photography/fine-art.html</id>
 
         <updated>2026-04-09T00:53:18+08:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                    Starry Starry Night
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/6/gallery/Qi-Xing-1Fen-Zhong-pinhole.jpg" data-size="4234x2485"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/6/gallery/Qi-Xing-1Fen-Zhong-pinhole-thumbnail.jpg" alt="" width="768" height="451"></a></figure>
-<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/6/gallery/Last-Supper-compare.jpg" data-size="2479x3508"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/6/gallery/Last-Supper-compare-thumbnail.jpg" alt="" width="768" height="1087"></a></figure>
-<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/6/gallery/Jing-Li-Shi-Jianfor-web.jpg" data-size="3750x2550"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/6/gallery/Jing-Li-Shi-Jianfor-web-thumbnail.jpg" alt="" width="768" height="522"></a></figure>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/6/gallery/Qi-Xing-1Fen-Zhong-pinhole.jpg" data-size="4234x2485"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/6/gallery/Qi-Xing-1Fen-Zhong-pinhole-thumbnail.jpg" alt="騎行一分鐘" width="768" height="451"></a></figure>
+<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/6/gallery/Last-Supper-compare.jpg" data-size="2479x3508"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/6/gallery/Last-Supper-compare-thumbnail.jpg" alt="攝影中的造像 - 最後晚餐" width="768" height="1087"></a></figure>
+<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/6/gallery/Jing-Li-Shi-Jianfor-web.jpg" data-size="3750x2550"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/6/gallery/Jing-Li-Shi-Jianfor-web-thumbnail.jpg" alt="創意攝影結業作品" width="768" height="522"></a></figure>
+<figure class="gallery__item"><a href="https://viewfinder66.github.io/photography/media/posts/6/gallery/Starry-Starry-Night-pinhole.jpg" data-size="2000x1000"><img loading="lazy" src="https://viewfinder66.github.io/photography/media/posts/6/gallery/Starry-Starry-Night-pinhole-thumbnail.jpg" alt="" width="768" height="384"></a>
+<figcaption>Starry Starry Night</figcaption>
+</figure>
 </div></div>
             ]]>
         </content>
